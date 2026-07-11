@@ -1,9 +1,10 @@
-# Muneeb
+# Muneeb Arif— Full-Stack Engineer & AI/ML
 
-**Full-Stack Engineer & AI/ML**
-BSc Computer Science · FAST-NUCES
+BSc Computer Science · FAST-NUCES  
+Building AI-integrated products end to end  
+Full-Stack Web · Computer Vision · RAG & LLM Systems
 
-I build AI-integrated products end to end — from data and model training through scalable, deployed web systems that people actually use.
+I build AI-integrated products from data and model training through scalable, deployed web systems that people actually use.
 
 ---
 
@@ -65,7 +66,7 @@ CNN-LSTM Seq2Seq model on a pretrained ResNet50 encoder. Greedy and Beam Search 
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/muneeb-arif-5bbb66374/) · [GitHub](https://github.com/muneeb-codehub)
+[LinkedIn](https://www.linkedin.com/in/muneeb-arif-5bbb66374/) · [GitHub](https://github.com/muneeb-codehub) · muneebarif645@gmail.com
 
 <!--
   To turn this into your GitHub profile README:
