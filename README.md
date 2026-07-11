@@ -4,8 +4,6 @@ BSc Computer Science · FAST-NUCES
 Building AI-integrated products end to end  
 Full-Stack Web · Computer Vision · RAG & LLM Systems
 
-I build AI-integrated products from data and model training through scalable, deployed web systems that people actually use.
-
 ---
 
 ## What I build
