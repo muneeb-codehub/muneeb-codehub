@@ -48,7 +48,7 @@ CNN-LSTM Seq2Seq model on a pretrained ResNet50 encoder. Greedy and Beam Search 
 
 **Frontend:** React · Next.js · TypeScript · Tailwind CSS · React Native
 
-**Backend:** Node.js · Express.js · Django · FastAPI · REST APIs · JWT · OAuth
+**Backend:** Node.js · Express.js · Nest.js · Django · FastAPI · REST APIs · JWT · OAuth
 
 **Databases:** PostgreSQL · MongoDB · Supabase · MySQL · Sequelize ORM
 
