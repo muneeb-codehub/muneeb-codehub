@@ -54,7 +54,7 @@ CNN-LSTM Seq2Seq model on a pretrained ResNet50 encoder. Greedy and Beam Search 
 
 **ML / DL:** PyTorch · Scikit-learn · YOLOv8 · CNN-LSTM · ResNet50 · OpenCV · CLIP · NumPy · Pandas
 
-**LLMs / RAG:** OpenAI API · LangChain · Vector Databases · Embeddings · Prompt Engineering · NLP
+**LLMs / RAG:** OpenAI · LangChain · Vector Databases · Embeddings · Prompt Engineering · NLP
 
 **DevOps / Deployment:** Docker · Kubernetes · Roboflow · Git · Streamlit
 
